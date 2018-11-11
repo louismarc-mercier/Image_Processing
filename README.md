@@ -1,5 +1,5 @@
 # Image_Processing
-Different projects on image processing. The notebooks hasve been written in the following order:
+Different projects on image processing. The notebooks have been written in the following order:
 
 1. Kmeans
 2. Resize Images
